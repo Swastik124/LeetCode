@@ -10,7 +10,6 @@ public class Solution {
         {
             String s=sc.nextLine();
             System.out.println(++count+" "+s);
-    
         }
     }
 }
