@@ -1,2 +1,2 @@
-# HackerRank
-Practiced Questions in Hackerank !!
+# LeetCode
+Practiced Questions in LeetCode !!
