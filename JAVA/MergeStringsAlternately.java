@@ -15,7 +15,6 @@ class Solution {
         while (j < word2.length()) {
             mergedWord.append(word2.charAt(j++));
         }
-
         return mergedWord.toString();
     }
     public static void main(String[] args) {
