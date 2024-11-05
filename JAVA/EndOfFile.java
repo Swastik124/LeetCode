@@ -6,6 +6,7 @@ public class Solution {
         Scanner sc=new Scanner(System.in);
         for(int i=0;i<3;i++)
         {
+            
             String s=sc.nextLine();
             System.out.println(++count+" "+s);
         }
